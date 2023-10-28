@@ -25,7 +25,8 @@
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "yarn": "^1.22.19"
   },
   "description": "demo app for COMP229 Week 3",
   "main": "server.js",
